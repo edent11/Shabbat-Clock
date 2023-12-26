@@ -6,7 +6,7 @@ Shabbat alarm clock using React Native, Soon to be published on Google Play Stor
 
 - Alarm clock scheduling
 - Supported languages: English and Hebrew
-- Both Dark and light mode supported
+- Both Dark and light modes supported
 
 # Screenshots:
 
